@@ -1,6 +1,6 @@
 # gugd
 tata
 ```bash
-wget https://raw.githubusercontent.com/828768/Shell/master/deploy_node.sh
+wget https://github.com/gugd123/gugd/blob/master/deploy_node.sh
 bash deploy_node.sh
 ```
